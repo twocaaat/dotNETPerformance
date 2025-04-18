@@ -12,7 +12,7 @@
     </ItemGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\dotNETPerformance.Implementaion\dotNETPerformance.Implementaion.csproj" />
+      <ProjectReference Include="..\dotNETPerformance.Implementation\dotNETPerformance.Implementation.csproj" />
     </ItemGroup>
 
 </Project>

@@ -1,6 +1,6 @@
 ﻿using System.Runtime.InteropServices;
 
-namespace dotNETPerformance.Implementaion.Collections;
+namespace dotNETPerformance.Implementation.Collections;
 
 public static class SliceCollection
 {

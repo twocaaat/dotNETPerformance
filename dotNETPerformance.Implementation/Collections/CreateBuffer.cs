@@ -1,4 +1,4 @@
-﻿namespace dotNETPerformance.Implementaion.Collections;
+﻿namespace dotNETPerformance.Implementation.Collections;
 
 public static class CreateBuffer
 {
