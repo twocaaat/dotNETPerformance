@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotNETPerformance.Benchmark", "dotNETPerformance.Benchmark\dotNETPerformance.Benchmark.csproj", "{A186A5B2-A973-4D91-B474-A083E66C905E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotNETPerformance.Implementaion", "dotNETPerformance.Implementaion\dotNETPerformance.Implementaion.csproj", "{8D1D23F8-8345-4044-ABF2-47E8803C6966}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A186A5B2-A973-4D91-B474-A083E66C905E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A186A5B2-A973-4D91-B474-A083E66C905E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A186A5B2-A973-4D91-B474-A083E66C905E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A186A5B2-A973-4D91-B474-A083E66C905E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D1D23F8-8345-4044-ABF2-47E8803C6966}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D1D23F8-8345-4044-ABF2-47E8803C6966}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D1D23F8-8345-4044-ABF2-47E8803C6966}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D1D23F8-8345-4044-ABF2-47E8803C6966}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
