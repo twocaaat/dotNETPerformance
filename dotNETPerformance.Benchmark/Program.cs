@@ -1,4 +1,6 @@
 ﻿using BenchmarkDotNet.Running;
-using dotNETPerformance.Benchmark;
+using dotNETPerformance.Benchmark.Collections;
 
-var summary = BenchmarkRunner.Run<MockBenchmark>();
+// Collections
+//BenchmarkRunner.Run<CreateBufferBenchmarks>();
+BenchmarkRunner.Run<SliceCollectionBenchmark>();
